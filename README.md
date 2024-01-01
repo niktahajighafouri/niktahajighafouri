@@ -134,7 +134,7 @@ I am eager for dynamism and building, and the feeling of being efficient and pro
 
 *   🌍  I'm based in Rasht, IR
 *   ✉️  You can contact me at [niktahajighafouri@gmail.com](mailto:niktahajighafouri@gmail.com)
-*   🔗https://www.linkedin.com/in/nikta-hajighafouri-a867151b6
+*   🔗www.linkedin.com/in/niktahajighafouri 
 
 #### 📫 Let's Connect:
 Feel free to reach out if you share similar interests, have exciting project ideas, or just want to connect. I'm always open to collaboration and learning from fellow developers!
