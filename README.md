@@ -31,9 +31,9 @@ I am eager for dynamism and building, and the feeling of being efficient and pro
 - Requests
 - venv
 - DB tools
--elastic search
--web scrapping
--beautiful soup
+- elastic search
+- web scrapping
+- beautiful soup
 - pyQt5
 - telegram bot packages 
 
@@ -134,7 +134,12 @@ I am eager for dynamism and building, and the feeling of being efficient and pro
 
 *   🌍  I'm based in Rasht, IR
 *   ✉️  You can contact me at [niktahajighafouri@gmail.com](mailto:niktahajighafouri@gmail.com)
-*   🔗www.linkedin.com/in/niktahajighafouri 
+*   🔗www.linkedin.com/in/niktahajighafouri
+*   
+🚀 Currently Exploring:
+-Selenium WebDriver
+-React
+-API development
 
 #### 📫 Let's Connect:
 Feel free to reach out if you share similar interests, have exciting project ideas, or just want to connect. I'm always open to collaboration and learning from fellow developers!
