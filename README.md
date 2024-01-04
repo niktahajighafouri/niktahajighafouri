@@ -5,7 +5,7 @@ Python developer
 ----------------
 
 -My name is Nikta Haji Ghafouri. It has been about three years since I first got acquainted with the Python programming language, and by being on the learning path (boot camp, university, projects and courses), I gradually fell in love with programming more and more. I was fascinated by this sweet and dynamic language with its wide applications.
--I am doing my bachelor's degree in computer science at Gilan University and I live both in Rasht and Tehran.
+-I am doing my bachelor's degree in computer science at Gilan University and mostly I live in Iran, Tehran but currently, I’m based in Gilan, Rasht.
 
 -I love team work and I have experienced three different and good job positions so far and I communicate well with people.
 I am eager for dynamism and building, and the feeling of being efficient and progressing is one of the work values ​​that is very important to me :)
